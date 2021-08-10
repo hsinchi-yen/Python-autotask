@@ -1,6 +1,6 @@
 For your reminder !
 
-Please update the assigned issues on Redmine before the bug review meeting by the 7/15 11:00 AM.
+Please update the assigned issues on Redmine before the bug review meeting by the 08/10 11:00 AM.
 
 http://10.20.30.20:30002/issues
 
@@ -13,7 +13,5 @@ For example:
 3. The boss has been asked but has not yet responded.
 4. Set the Status from New to InProgress / Confirm / Resolved while the issue has been taken.
 6. Such a record to facilitate confirmation that every question is tracking progress..
- 
-Regards.
 
-Lance
+Regards.

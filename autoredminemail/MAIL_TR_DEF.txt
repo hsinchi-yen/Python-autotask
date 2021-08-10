@@ -5,6 +5,6 @@ vzynvdfrdmcnkgmb
 #mail_from
 lance.yen@technexion.com
 #mail_receipts
-hsinchi.yen@gmail.com,lance.yen@technexion.com,lanceyenptw@gmail.com
+richard.hu@technexion.com,wig.cheng@technexion.com,leo.wang@technexion.com,vancent.chiang@technexion.com,tony.jin@technexion.com,jennifer.chang@technexion.com,ky.lee@technexion.com,peter.chiang@technexion.com,gavin.chen@technexion.com,joe.zhang@technexion.com,lance.yen@technexion.com
 #mail_subject
 Please Update Redmine Issues
