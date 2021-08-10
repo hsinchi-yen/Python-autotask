@@ -1,0 +1,10 @@
+#username
+lance.yen@technexion.com
+#password
+vzynvdfrdmcnkgmb
+#mail_from
+lance.yen@technexion.com
+#mail_receipts
+hsinchi.yen@gmail.com,lance.yen@technexion.com,lanceyenptw@gmail.com
+#mail_subject
+Please Update Redmine Issues

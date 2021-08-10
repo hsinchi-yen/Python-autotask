@@ -1,0 +1,19 @@
+For your reminder !
+
+Please update the assigned issues on Redmine before the bug review meeting by the 7/15 11:00 AM.
+
+http://10.20.30.20:30002/issues
+
+If there are no updates, please fill in the current status.
+
+For example:
+
+1. This issue will wait after the project or is expected to start on a certain day.
+2. An email has been sent waiting for a reply.
+3. The boss has been asked but has not yet responded.
+4. Set the Status from New to InProgress / Confirm / Resolved while the issue has been taken.
+6. Such a record to facilitate confirmation that every question is tracking progress..
+ 
+Regards.
+
+Lance
